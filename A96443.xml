@@ -1,0 +1,583 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon, preached at Kingston upon Hull: upon the day of thankes-giving after the battell, and that marvailous victory at Hessam-Moore, neare Yorke. / By J.W. B.D.</title>
+            <author>J. W. (Joshua Whitton)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 85 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96443</idno>
+            <idno type="STC">Wing W2049</idno>
+            <idno type="STC">Thomason E10_34</idno>
+            <idno type="STC">ESTC R979</idno>
+            <idno type="EEBO-CITATION">99873612</idno>
+            <idno type="PROQUEST">99873612</idno>
+            <idno type="VID">126089</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96443)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 126089)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 2:E10[34])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon, preached at Kingston upon Hull: upon the day of thankes-giving after the battell, and that marvailous victory at Hessam-Moore, neare Yorke. / By J.W. B.D.</title>
+                  <author>J. W. (Joshua Whitton)</author>
+               </titleStmt>
+               <extent>[2], 35, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Badger, for Matthew Walbank, and are to be sold at his shop at Grayes-Inne Gate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>J.W. = Joshua Whitton.</note>
+                  <note>Annotation on Thomason copy: "Octob. 4".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Ezra IX, 13-14 --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:126089:1"/>
+            <pb facs="tcp:126089:1" rendition="simple:additions"/>
+            <p>A SERMON, Preached at Kingſton upon Hull: VPON The Day of THANKES-GIVING after the Battell, and that marvailous Victory at <hi>Heſſam-Moore,</hi> near YORKE.</p>
+            <p>By <hi>J. W.</hi> B. D.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+               <q>LABORE ET CONSTANTIA</q>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. Badger,</hi> for <hi>Matthew Walbank,</hi> and are to be ſold at his ſhop at <hi>Grayes-Inne</hi> Gate. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:126089:2"/>
+            <pb n="1" facs="tcp:126089:2"/>
+            <head>A SERMON Preached at Kingſton upon Hull, upon the day of <hi>Thanksgiving,</hi> after the <hi>BATTELL;</hi> and that marvellous Victory, at <hi>Hessam-moore,</hi> neere <hi>YORKE.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Ezra. 9. The laſt clauſe of the 13. and 14 verſes,</hi>
+                  </bibl>
+                  <p>And hath given ſuch deliverance as this. Should wee againe breake thy Commandements, and joyne in affinity with the people of theſe abominations? <hi>&amp;c.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He people of Iſrael ſaw that they were in evill caſe, when they were to make the whole number of bricks, and yet want ſtraw, <hi>Exod.</hi> 5.7.8. and in what caſe may <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Miniſters of the Goſpell thinke themſelves to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that are to compoſe their whole number of Sermons, and yet went bookes: Such hath beene the m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ery of the parts of my acouſtomary reſidence: that not onely our goods within,
+<pb n="2" facs="tcp:126089:3"/>nor our cattell without our apparel to cloth us, or our <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ands &amp; livings to ſeed us, can ſuffice their inſatiable inhu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nin; and miſerable ingluvi<g ref="char:EOLhyphen"/>ouſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, but the very wealth of our callings, the fruits of many cold winters, and hot ſummers ſtudies, ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> books, our maniſcripts, our whole Libraries are def<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ced, plundred, (I may not ſay ſtollen, that is out of uſe,) burned or tor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e in peices, or for the honour thoſe crea<g ref="char:EOLhyphen"/>tures give to the ſubject matter therein contained, they uſe them to give fire to their Tobacco pipes, or for worſe offices; <hi>In qualia incidimiu tempora?</hi> was the complaint of the glory of the Roman language long agoe: Lord into what manner of times are we ſa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>en? <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urely wee may uſe the words of the Prophet, <hi>Lamentations</hi> 1.10. <hi>The enemy hath ſtret<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hed out his hand over all our pleaſant things.</hi> and as for us we ſigh, and are in heavin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, whilſt the preſent <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ries in the Church of God, ſay like thoſe of old, <hi>Lament.</hi> 1.16. <hi>Let us <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> certainely this is the day we looked for: we have <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and ſeene it. Oh but let our comfort be this, God will certainely ſay to their wickedneſſe, as to the waves of the Sea: <hi>Iob</hi> 38.11. <hi>Hithert, ſhalt thou come, and no far her, and here ſhall thy proud waves be ſtayed,</hi> and call to mind this of the good Prophet, <hi>Ieremiah,</hi> in the great di<g ref="char:EOLhyphen"/>ſtreſſe of the Church of God, <hi>Lam.</hi> 3.31, 32. <hi>The Lord will not forſake for ever: But though he ſend affliction, yet will he have compaſſion according to the multitude of His mercies:</hi> but I draw nearer the words of the text.</p>
+            <p>This Book in which lies the words of our text, is ſtiled the Booke of <hi>Ezra,</hi> and no doubt but was penned by him: would you know who this <hi>Ezra</hi> was? you may reade <hi>Chap.</hi> 7.12, <hi>He was a Prieſt, a Scribe of the Law of the God of Heaven,</hi> one that coppied out the Scripu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es and the Law of God revealed from Heaven; a man inſpir<g ref="char:EOLhyphen"/>ed with the Spirit of God, a pious man, a famous inſtrument for the good of Gods Church, and a great promoter of reedifying of the ſecond Temple, what the Prophet <hi>Ieremiah</hi> had foretold, <hi>Ezra</hi> the Prieſt lives to ſee performed, and that in a twofold reſpect. Firſt, in regard of the returne out of the captivity of <hi>Babylon.</hi> Secondly i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> re<g ref="char:EOLhyphen"/>gard of the building of the ſecond Temple, for the returne of the captivity. <hi>Ier.</hi> 29.10. <hi>After ſeaventy yeares be accompliſhed at Ba<g ref="char:EOLhyphen"/>bylon, I will viſit you, and porfor ne my good word towards you, in cauſing you to re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urne to this plaoe:</hi> yea, and to that end that wicked men may ſee; that it is no privil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dge to be an inſtrument of puniſhing the people of God. <hi>Jeremy</hi> 25.1. <hi>at that time when J deliver you, I will
+<pb n="3" facs="tcp:126089:3"/>puniſh the King of</hi> Babylon, <hi>and that Nation,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>their iniquity.</hi> In the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, <hi>long agoe;</hi> and that the Nations may know, that the words of the Prophets were not wind<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <hi>I will bring againſt that La<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d all that</hi> Ie<g ref="char:EOLhyphen"/>remiah <hi>hath propheſied against it, and againſt the Nations.</hi> That returne. I ſay, which <hi>Ieremiah</hi> foretold, <hi>Ezra</hi> lived to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, <hi>Ezra</hi> 2.1. <hi>Ezra</hi> 8.1. And ſome of thoſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that went <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with <hi>Ezra</hi> Oy<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> may read of <hi>Ezra.</hi> 7.6, 7.</p>
+            <p>Secondly, for the building of the Temple, you may read, <hi>Ezra</hi> 1, 1 2, 3. foretold alſo by <hi>Iſaiah,</hi> Chapt 44. laſt, that ſayes of <hi>Cy<g ref="char:EOLhyphen"/>rus,</hi> he is my Shepheard, and ſhall performe all my pleaſure: Even ſaying to <hi>Ieruſalem, Thou ſhalt be built, and to the Temple thy foun<g ref="char:EOLhyphen"/>dation ſhall be land;</hi> And <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> City and let goe my Captives not for <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> No <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> fold for <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſhall be <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> Na<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, he was ſo farre ſtcan taking any price <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ward, that he canfed much to be given to them, <hi>Ezra</hi> 1.4. <hi>Whoſoever remaines in any place where he <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of his place <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> with <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, and with gold, with good <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> will offering for the Houſe of God that is <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> This <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that the hea<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s of King<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the hand of God, and what <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> they ſhall performe.</p>
+            <p>Secondly, that he can make ſtrangers to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> truth the favourers of his Church, as <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to pro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ate his honour.</p>
+            <p>Thirdly, and laſtly, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> they <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> need to bring <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>. God ſo over-rules the King of <hi>Perſia,</hi> that when the period of the per<g ref="char:EOLhyphen"/>ſecution of Gods people is come, they ſhall come out: <hi>But after ſuch a delivery as this,</hi> ſayes <hi>Ezra, ſhall wee againe break his Commande<g ref="char:EOLhyphen"/>ments?</hi> and after ſuch a delivery <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, ſhall we again break thy Commandements?</p>
+            <p>In the Text, not we theſe five poynts.</p>
+            <p>Firſt, a gracious Commemoration.</p>
+            <p>Secondly, a pious Interrogation.</p>
+            <p>Thirdly, a particular Explication.</p>
+            <p>Fourthly an Expoſtulation.</p>
+            <p>Fiftly, the effect<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and they are two.</p>
+            <p>A gracious Commemoration, <hi>And hath given us ſuch <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> as this.</hi>
+            </p>
+            <pb n="4" facs="tcp:126089:4"/>
+            <p>A pious Inter rogation, <hi>Should we again break thy <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi>
+            </p>
+            <p>A particuler Explication. <hi>And joyne in affinity with the people of theſe ab <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> nations.</hi>
+            </p>
+            <p>An Expoſtulation, <hi>Woulaſt then not be angry.</hi> The effects ſollow.</p>
+            <p>The viewing of the fort<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er ſhould reſtrain us from the latter: and Gods unſpeakable mercy work upon our obdurancy. Of theſe then in Order: and firſt of the gracious Commemoration, or the rehearſall of his gracious dealing with his people, in giving them ſuch delive<g ref="char:EOLhyphen"/>rance as this. <hi>And hath given us ſuch deliverance as this.</hi>
+            </p>
+            <p>In the Text mention is not onely made of a Deliverance, but mag<g ref="char:EOLhyphen"/>nified with an emphaſis, of ſuch a deliverance; <hi>ſuch deliverance as this.</hi> Many a time did God deliver his people, but ſuch a delive<g ref="char:EOLhyphen"/>rance as this, ought to be of ſpeciall notice. Many a time God did deliver them, as we may ſee in the Book of <hi>Iudges:</hi> but yet which was ſuch a deliverance as this? The deliverance out of <hi>Egypt</hi> was a more miraculous deliverance, but not ſuch an eaſie and peac<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>able deliverance as this.</p>
+            <p>When God will puniſh, it's be that delivers into the hand of the e<g ref="char:EOLhyphen"/>nemy, <hi>Iudg.</hi> 2.14. When Gods anger was hot after the death of <hi>I<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhua,</hi> it was he that delivered them into the hand of the ſpoyler, that ſpoyled them: but when he would ſhew mercy, he alſo delivers them out, ſometimes by miracles, ſometimes by the ordinary means of men, <hi>Judges</hi> 2.16. Though he thus whipped them, nevertheleſſe he rayſed up Iudges which delivered them out of the hand of theſe that ſpoyled them. Yet amongſt many of their deliverances we ſhall in divers reſpects not finds ſuch a deliverance as this: <hi>And hath given as ſuch deliverance as this.</hi>
+            </p>
+            <p>In which words we have three things to explaine.</p>
+            <p>Firſt, what is meant by this deliverance.</p>
+            <p>Secondly, let us ſee in what reſpects it is ſo emphatically magnifi<g ref="char:EOLhyphen"/>ed with ſuch a deliverance.</p>
+            <p>Thirdly, and laſtly, how God was ſaid to give them ſuch a deliverance.</p>
+            <p>I anſwer, firſt, that this Pronoune <hi>(this)</hi> notes out in that firſt poynt ſome particuler deliverance.</p>
+            <p>Secondly, that this particuler deliverance was their freedome from the ſeventy yeares captivity in <hi>Babylon, Ezra</hi> 2.1. <hi>Ezra</hi> 7.13. Thus you briefely ſee what this paticuler deliverance was.</p>
+            <pb n="5" facs="tcp:126089:4"/>
+            <p>Secondly, let's ſee in what reſpects it's ſo emphatically magnified, <hi>(with ſuch a deliverance)</hi> We may obſerve that it's worthy an empha<g ref="char:EOLhyphen"/>ſis in theſe five reſpects.</p>
+            <p>Firſt, in regard of the freeneſſe of it.</p>
+            <p>Secondly, in regard of the peaceableneſſe of it.</p>
+            <p>Thirdly, in regard of the honourableneſſe of it.</p>
+            <p>Fourthly, in regard of the faſeneſſe of it.</p>
+            <p>Fiftly, and laſtly, in regard of their Accommodation with all conveniencies.</p>
+            <p>Firſt, inregard of the freeneſſe of it, <hi>ne mine cogene, nemine pro<g ref="char:EOLhyphen"/>paguante,</hi> no man forcing rt, no man fighting <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or it, <hi>Ezra</hi> 9.9. He extended mercy to us in the fight of the Kings of <hi>Forſia,</hi> three of their Kings ſeverally one after another freely decreed it: firſt <hi>Cy<g ref="char:EOLhyphen"/>rus, Ezra</hi> 1.1. in the very <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of his raigne hee makes a Pro<g ref="char:EOLhyphen"/>clamation for it. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of the Records, fin<g ref="char:EOLhyphen"/>ding that <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, makes a ſecond, <hi>Ezra</hi> 6.1. Yea, and this Decree was made ſo ſtrongly, and backed with ſuch per<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ty, if not obſerved, <hi>Ezra</hi> 6.11. <hi>That whoſoever ſhould alter this word, the tim<g ref="char:EOLhyphen"/>ber was to be palled <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> from his houſe, and ſet up for a Gallowes, and be hanged thereon<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and not onely ſo, but the houſe it ſelfe was to bee made a Dung-hill: Yea, and the freenes of <hi>Dar<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> his ſpirit was ſuch for this delivering, and the Temples re-edifying, that he com<g ref="char:EOLhyphen"/>manded it ſhould be done with ſpeed. Thirdly, <hi>Artaxerxes, Ezra</hi> 7.12, 13. He made a Decree that all the people of <hi>Iſrael</hi> that would goe with <hi>Ezra,</hi> and with the Prieſts and Levits, they might goe: thus we <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the freeneſſe of it, whereas other deliverance were not wrought without bloud and compulſion from captivity.</p>
+            <p>When <hi>Lot</hi> and his people were taken Captives in the overthrow of the Kings of <hi>Sodo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s</hi> and <hi>Go<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>orah, Abraham</hi> his Vncle de<g ref="char:EOLhyphen"/>livered him; but it was nt without blowes and bloud-ſhed, <hi>Geneſis</hi> 14.14, 15, 16. <hi>Abraham</hi> armed 318. of his trayned Band, and he and his ſervan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s devided themſelves againſt the enemie by night, wherein he ſhewed both his wiſedome, and skill, in comming upon them in ſo many ſeveall companies, and by night, in pur<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ing them at ſuch a time as they leaſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſpected an onſet. And he brought <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> back, the women, the people, and off the goods. Againe, <hi>Judges</hi> 3.8. when <hi>Iſrael</hi> had provoked God anger by their unlawfull marriages; and their Idolatry, he ſold them into the hands of <hi>Cu<g ref="char:EOLhyphen"/>ſham-ziſhathaim</hi>
+               <pb n="6" facs="tcp:126089:5"/>King of <hi>Meſopotamia,</hi> to whom they were in bon<g ref="char:EOLhyphen"/>dage and ſlavery eight yeares; and when they cryed, hee rayſed <hi>Othniel</hi> up for a deliverer: but not without warre, and bloud-ſhed, and conſtraint, <hi>v.</hi> 10. And <hi>Iudges</hi> 4.3. when they ſinned againe, God puniſhed againe, and delivered them into the hands of <hi>Jabin</hi> King of <hi>Canaan</hi> for twenty yeares. <hi>Deborah</hi> and <hi>Barak</hi> delivered them, but not freely, but by a ſtrong hand, and by bloud, <hi>verſe</hi> 15. I might inſtance in many, but what need we more. Thus we ſee what a deliverance this was in regard of the freeneſſe of it no jarre, no warre no bloud-ſhed.</p>
+            <p>Secondly, in regard of the peaceableneſſe of it. Though <hi>Pha<g ref="char:EOLhyphen"/>rach</hi> had conſented to let Iſrael goe out of the bondage of <hi>Egypt. Exod.</hi> 11.31. <hi>Riſe up, and get you forth from among my people, &amp;c</hi> yet for all this they went not away peceably, but with much mur<g ref="char:EOLhyphen"/>muring and purſuit, <hi>Exod.</hi> 14 and 5; The heart of <hi>Pharaoh,</hi> and his ſervants were turned againſt the people: and <hi>verſes</hi> 8, 8. <hi>Pharaoh</hi> and the Egyptions purſued after them 1 and all the horſes, and Charriots of <hi>Pharaoh, and his horſemen, and his Army, and over<g ref="char:EOLhyphen"/>took</hi> them incamping by the ſea. Here was no ſuch thing in delive<g ref="char:EOLhyphen"/>rance out of this Egyptian ſlavery, as was in the deliverance from the Babyloniſh Captivity.</p>
+            <p>Thirdly in regard of the honourableneſſe of it, they were not ſent away ſtript branded, or diſhonoured or with diſgrace, or in confuſion, but upon conſultation had with their Prieſts, and El<g ref="char:EOLhyphen"/>ders, and the moſt honou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rable amongſt the Perſians reflecting up<g ref="char:EOLhyphen"/>on them, and the better tanks together with the Poorer, marched out orderly.</p>
+            <p>Fourthly, in regard of the ſafeneſſe of it: no enemies at their comming out no <hi>Amelcks</hi> in the way, no ſuch wilderneſſe drought, fiery Serpents, or a forty yeares journey, as from E<g ref="char:EOLhyphen"/>gypt.</p>
+            <p>But <hi>Ezra</hi> 7.9. Vpon the firſt day of the firſt moneth, they be<g ref="char:EOLhyphen"/>gan to goe up from Babylon, and upon the firſt day of the fifth moneth were at Ieruſalem, according to the good hand of God up<g ref="char:EOLhyphen"/>on <hi>Ezra,</hi> and <hi>Ezra</hi> 8.22, 23. I was aſhamed to require of the King an Army, and horſemen, to helpe us againſt the enemy in the way, becauſe we had ſpoken to the King ſaying, <hi>The hand of our God is upon all them that ſeek him in goodneſſe: but his power
+<pb n="7" facs="tcp:126089:5"/>and Wrath againſt all them that forſake him.</hi> And humbling them<g ref="char:EOLhyphen"/>ſelves before God by faſting and prayer, God did ſo preſerve them, that no enemy in the way troubled them: but <hi>verſe</hi> 31. The hand of God was ſo upon them, that he delivered them from the hand of the enemy, and of ſuch as layd wayt by the way.</p>
+            <p>Fiftly, and laſtly, in regard of their accommodation for all con<g ref="char:EOLhyphen"/>veniences, <hi>Ezra</hi> 1.4. Whereſoeve they ſojourned (as you have heard) the men of that place were to accommodate them with ſilver, gold, goods, beaſts; beſides the free-will offerings of the houſe of God. And <hi>Ezra</hi> 7.15, 16. <hi>Ezra</hi> was to carry over ſilver and gold, which the King and his Counſellors had freely offered to the God of Iſrael, and all the ſilver and gold that he could finde in the Province of <hi>Babylon.</hi> And verſe 19. They were to take back all the Veſſells of the Temple which <hi>Nabuchadnezzer</hi> had plundred from thence. And <hi>verſe</hi> 20. If any thing elſe were neceſſary, it ſhould be payd out of the Kings Treaſures. Caſt all theſe things together, and then tell me, if it might not well be emphatically expreſſed with ſuch a deliverance as this. <hi>And hath given as ſuch a deliverance as this.</hi>
+            </p>
+            <p>The third poynt is, that God gave this deliverance. How did he give it?</p>
+            <p>
+               <hi>Anſwer.</hi> By working upon the hearts, and minds, and ſpirits of the Kings of <hi>Perſia,</hi> freely to grant it; which lets us ſee how the hearts of Kings are in the hands of God, to move when, and what he will, <hi>Ezra</hi> 1.1. The Lord ſtirred up the ſpirit of <hi>Cyrus,</hi> King of <hi>Perſia,</hi> that hee made a Proclamation, &amp;c. <hi>v.</hi> 3. Whoſoever would go up to <hi>Ieruſalem</hi> to build the Temple, he might. And <hi>Ezra</hi> 6.9. ſee how God ſtirred up the ſpirit of <hi>Darius</hi> to ſecond this. And <hi>Ezra</hi> 7.13. <hi>Artaxerxes</hi> had his heart alſo ſo wrought upon by God for his peoples good, that he made a Decree in his time to the ſame end. Thus you ſee in brevity how God gave ſuch a deliverance as this. <hi>And hath given us ſuch deliverance as this.</hi>
+            </p>
+            <p>This may teach us when we are in captivity, priſon, or miſery, not to exclude Gods hand from working our happineſſe. If friends inter<g ref="char:EOLhyphen"/>cede, yet are they ſtirred up of God. It is he likewiſe that inclines the hearts of the Captivators to hearken to their requeſts, over-ruling their ſpirits for his owne honour, and his peoples peace, ſo that we may ſay to ſuch inſtruments, as <hi>David</hi> to the widdow of <hi>Tikoab,</hi>
+               <pb n="8" facs="tcp:126089:6"/>when he inſtructed her firſt, and then imployed her for the reducing of <hi>Abſolon</hi> into his fathers favour, 2 <hi>Sam.</hi> 14.19. <hi>Is not the hand of Ioab with thee in all this?</hi> So may we ſay, is not the hand of god with you in all this?</p>
+            <p>And now from their ſuch deliverance, give me leave a little to looke upon our late deliverance; which when we have diſcourſed a while, we ſhall finde worthy an emphaſis, and <hi>(a ſuch deliverance)</hi> too: Concerning which, take this halfe a dozen of poynts. Firſt, the name of the enemy, to whom in ſome places no leſſe than a ſe<g ref="char:EOLhyphen"/>cond <hi>Caeſarian</hi> fortune, <hi>veni, vidi, vici,</hi> came, viewed, and over<g ref="char:EOLhyphen"/>came. Some Dung-hill ſpirits, and daunted hearts were vanqui<g ref="char:EOLhyphen"/>ſhed with ſhewes, never came to blowes: the many advantages the enemy gained by treachery, celerity, and vigilancy made them loo<g ref="char:EOLhyphen"/>ked upon by ſome as formidable. Their Treachery breakes vowes, promiſes, and covenants, as <hi>Sanpſon</hi> did his threeds of Tow; and ſo they may gaine their owne ends, they conſcience not the <hi>medi<g ref="char:EOLhyphen"/>nums,</hi> but often uſe inhumane cruelty to a ſtooping and ſubmitting enemy, which one day ſhall more diſadvantage their deſignes than all their policies have put them for ward.</p>
+            <p>Secondly, Celerity, ſeldome monething it upon any one deſigne, or grazing their Quarters too low in any corner of the Kingdome, but by ſwift motion viſits one Countrey after another, dividing the prey, and taking the ſpoyle of what they never ſweat for. If any victory for our impiety, it is approved to the utmoſt: whence wee might ſurely learne ſomething.</p>
+            <p>Thirdly, and laſtly, their Vigilancy in ſcouting by horſe, and in<g ref="char:EOLhyphen"/>telligence by foot, which are the two eyes of an army to look into the very bowells of an enemy. How advantagiouſly of late did they chuſe out their ground upon which God would have them receive their overthrow? no doubt more buſied to finde out thoſe than him. How ſuddainly did their Allarme reach the enemy: which put the chiefe Commanders to an haſty collection of their ſpirits? how fu<g ref="char:EOLhyphen"/>rious their firſt aſſault? how gradually did god abate their pride? It puts me in minde what I have read of the French, that in the firſt onſet they are more than men; but ever after leſſe than women. God would let man ſee that an Arme of fleſh could not prevaile againſt him. Though in their preſumption they thought to have devoured up all with open mouth. but they ſought againſt more than they
+<pb n="9" facs="tcp:126089:6"/>ſaw, not more than they felt, againſt a Deity, who made an im<g ref="char:EOLhyphen"/>preſſe upon their impiety, and was pleaſed to give his poore peo<g ref="char:EOLhyphen"/>ple victory againſt all their Treacherie, Celerity, and Vigilancy.</p>
+            <p>Secondly, ſuch a delivery, if we conſider their quantity: But thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wee cannot expreſſe punctually: ſome relate 20000 ſome 23: thouſand, ſome much more, but <hi>magnus minimus,</hi> the leaſt number great. Yet was God pleaſed from all theſe to deliver us; and as the <hi>Pſalmiſt</hi> hath it, <hi>When they would have eaten up our fleſh, they ſtumbled all fell, and all the men whoſe hands were Mighty, found nothing.</hi>
+            </p>
+            <p>Thirdly, ſuch a delivery, if we reſpect their quality: men of s<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ill, men of will, yea, and men of ill too; men of cruelty, men of bloud, men as yet not ſatiated with the bloud of the Saints, many of them forraigne and ſavage beaſts, in the ſhapes of men: others of them bloudy, obſtinate, and malicious Papiſts, who are glad to ſee the day they may be looſed out of their Collers, to worry ſuch as have for many yeares kept them in by the power of good Lawes: yet themſelves even then had ſmall cauſe to complaine, for they were layd upon them with a gentle hand: but alas now who feeles not the mi<g ref="char:EOLhyphen"/>ſery of that undeſerved clemency? many others their aſſociates ſtrengthen their hands againſt them innocent, and faithfull in the land, whoſe conſciences can aſſure them before that great Tribunall, that they are forced to ſtand up as true Engliſh hearts for their lives, for their liberties, for their religion, for their tender poſterity, that are but themſelves renewed, and ſhould beare their names; yet they will not ſee the bent of thoſe to whom they aſſociate, but help un<g ref="char:EOLhyphen"/>naturally with fire and word to waſte the land of their nativity: the very heathen may riſe up in judgement againſt them for this: What though theſe tell us how they hate Popery, and are as much for the Proteſtant Religion (truely called Catholike) as the beſt. We may anſwer them in St. <hi>Auſtins</hi> words in another kind, <hi>Verba quid audeo, facta dum video,</hi> to what end doe they give us ſuch words, when we ſee ſuch deeds? when they have impriſoned as many Maſſe Prieſts, as they have done painfull Paſtors, and learned and godly Preachers; and plundred as many Papiſts, as they have robbed good Proteſtants, and made as much roome for Sermons, as they have made for ſacrificing, <hi>hiſce peractis, cauſam ventibabimus,</hi> then we are will<g ref="char:EOLhyphen"/>ling to heare their plea, till then they doe but <hi>ſurdo canere,</hi> ſpend words upon us for their profeſſion in vaine. What though they be
+<pb n="10" facs="tcp:126089:7"/>not ſo devoyd of reaſon, as directly to ayme at that advance: yet in directly, and by conſequence, reaſon muſt nearer informe them, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat that faction by their meanes cannot out be ſtrengthned. And what though they gaine a bubble of honour for themſelves in their courſe, yet their poſterity would curſe them for beſlaving their liber<g ref="char:EOLhyphen"/>ty, <hi>Iſaiah</hi> 7.2. The Prophet tells us that <hi>Aram</hi> was joyned with <hi>Ephraim,</hi> but now <hi>Ephraim</hi> is joyned with <hi>Aram,</hi> for feare that <hi>Iu<g ref="char:EOLhyphen"/>dah</hi> ſhould want ſpoyling. Yet <hi>Iſaiah</hi> 8.9, 10. Mark what God ſaid by his Prophet, <hi>Gather together on heaps, O yee people, and ye ſhall be brok<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n in pieces, and hearken all yee farre Countries: gird your ſelves and yee ſhall be broken to pieces: gird your ſelves and yee ſhall be broken in pieces: take councell together, yet it ſhall be brought to nought: pronounce a decree yet ſhall it not ſtand; for God is with us.</hi>
+            </p>
+            <p>Fourthly, their reſolution, moſt of them being deſperately wicked, whom Sathan hath principled to make haſte for hell: there is no deſigne ſo deſperate as ſome of them will not attempt, though uſually they be Bulletted, and fired out of this life for it: and are ſent to meet with ſuch matches as will keep fire for ever. They will vow, curſe, &amp; ſwear, and for fear that God ſhould forge to puniſh their ſin, they deſire him to damne them; and divers of them have dyed (with God damne-me in their mouthes:) and in their vowes would ſay, that this, or that they would doe; this, or that Towne they would have by ſuch and ſuch a time; never taking God within the liſts of their reſolves; as if they would either have it without him, or elſe ne<g ref="char:EOLhyphen"/>ver. Theſe are rebellious againſt god in their hearts, and diſobedi<g ref="char:EOLhyphen"/>ent in their lives, and theſe their reſolutions God often infatuates and fruſtrates, that all the world may ſee their blinde and deſperate fol<g ref="char:EOLhyphen"/>ly. Gods foyling of ſo many of theſe men, of theſe deſparate reſolves, who in their approaches ſtill march up furiouſly like <hi>Jehu,</hi> and looke as if they were Lords before blowes, who having perceived the ſiege rayſed before <hi>Yorke,</hi> bleſſed themſelves in the height of their terrour, and felt their courage riſe together with the ſiege, flattering themſelves with an undoubted hope of a moſt glorious victory: Thus farre God ſuffered the waves of their pride to grow higher, and higher: but let not him that putteth on his Armour, boaſt himſelfe like him that puts it off. <hi>Heſſam-Moore</hi> proved not a <hi>Stopford,</hi> a <hi>Li<g ref="char:EOLhyphen"/>verpoole,</hi> or a <hi>Bolton,</hi> which two latter, though for a long time bravely defended, yet alas at length ſo great a multitude over-pow<g ref="char:EOLhyphen"/>red
+<pb n="11" facs="tcp:126089:7"/>their ſtrength: famous little <hi>Bolton,</hi> who had twice before quel<g ref="char:EOLhyphen"/>led the pride of a daring enemy, and repulſed him with ſhame; who can think of thee without ſorrow? that at the third onſet GOD ſhould let thee ſuffer; wherein one example of cruelty is to be rigi<g ref="char:EOLhyphen"/>ſtred to all poſterity; that when the Towne was taker, and much ſavage dealing exerciſed upon the poore, and ſo well diſpoſed inhabi<g ref="char:EOLhyphen"/>tants, one amongſt the reſt they piſtolled and running behinde a Table they cut his throat, and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tched his Bible, upon which they iſ<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed out his bloud in abundance, <hi>
+                  <g ref="char:V">Ʋ</g>ſque quo Domine, uſque quo</hi> This doubtleſſe was for the love they bore to the Proteſtant Religion, <hi>videat Deus, &amp; judecet.</hi> Yet the proud waves of their wicked de<g ref="char:EOLhyphen"/>ſigne ſtay not here, but as bearing downe all before them, they coaſt it to another Country, till they come to their fatall foyle, where God ſeemed to have ſaid to them as to the waves of the Sea, <hi>Job</hi> 38.11. <hi>Hitherto ſhall thy proud waves come, but no further, here ſhall you bee ſtayed.</hi> They found <hi>Heſſam</hi> and harder Countrey; there was more Iron and Steele wayted for them there, more Iron and Smoak to wel<g ref="char:EOLhyphen"/>come them than another place: They never dreamed of making ſuch haſte home, when they came on, as afterwards they made uſe of. <hi>Let Iſrael know, and thankefully acknowledge, that this hath GOD done.</hi>
+            </p>
+            <p>Sixthly, and laſtly, of ſo many wording men, let us but take notice of the paucity of ſwording men, it is well knowne that we had no ſmall body at the firſt onſet, but too many of the common ſouldiers did too ſoone face about: Let them thank me for the terme, but they know my meaning; oh where was the remembrance of their vow, of their Covenant, of that Cauſe which concernes many millions of men, women and children: yet thus they backed thoſe noble, valiant, reſolute and hardy ſpirits, when they ſhould have elbowed them in the field; to whom next under God thouſand thouſands owe deſerved honour. God hath gone before us in it, therefore we may ſafely follow: He was pleaſed to give them the honour of the day, who is the giver of victories in battells. Caſt all theſe together, conſider them well, remember all their Cir<g ref="char:EOLhyphen"/>cumſtances, and then doe but tell me, f this delivery merited not an emphaticall expreſſion too; with ſuch a deliverance as this <hi>And hath given us ſuch a deliverance as this.</hi>
+            </p>
+            <pb n="10" facs="tcp:126089:8"/>
+            <p>Such a deliverance, by which our Conſciences are kept from thraldome, our lives from the mercileſſe cruelty of the enemy: our Townes from their robbery, our Religion (dearer than our lives) from their ſlavery, our Countrey from their inſolency, our wives and children from their tyranny. Such and no leſſe was our delive<g ref="char:EOLhyphen"/>rance than this. <hi>And hath given us ſuch deliverance as this.</hi> So much for that poynt.</p>
+            <p>I come now to the ſecond, the pious interrogation, <hi>ſhould wee againe break: by Commandements?</hi> As if hee had ſayd, we did thus before the Captivity, and thou didſt puniſh us; and having had ſuch miſerable experience of the fruit of our wayes, let us not againe breake thy Commandements? <hi>Should we againe breake thy Comman<g ref="char:EOLhyphen"/>dements?</hi>
+            </p>
+            <p n="2">2. <hi>Againe:</hi> That is though we have beene in Captivity, and ſerved ſeventy yeares under the lofty Lords of <hi>Babylon,</hi> yet God having delivered us from it in great mercy, ſhould we requite him by our impiety, by breaking his Commandements? <hi>And ſhould we a<g ref="char:EOLhyphen"/>gaine break thy Commandements?</hi>
+            </p>
+            <p>What Commandements? ſurely in a large ſence all the Comman<g ref="char:EOLhyphen"/>dements, the whole Law; but more eſpecially thoſe againſt Idola<g ref="char:EOLhyphen"/>trie, and matching with ſtrangers, or the daughters of Idolaters, being of a falſe and ſtrange Religion, <hi>Deus.</hi> 7.8. <hi>Thy daughter thou ſhalt not give unto his ſonne, nor his daughter ſhalt thou take unto thy ſonne, for feare of turning him from the religion of the true God.</hi> But alas this they had done, they had matched with Idolaters, which was one of the greateſt ſinnes that <hi>Ezra</hi> bewayles, <hi>Ezra</hi> 9.2. <hi>The people tooke of their daughters, for themſelves, and their ſonnes, ſo that the holy Jeed had mingled themſelves with the people of thoſe lands.</hi> Yea, the hand of the Princes and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ulters, had been chiefe in this treſpaſſe: Yea, I doe eaſily believe, that great men are apt to lead the reſt wrong, and to treſpaſſe againſt God firſt, and the deeplyeſt, and <hi>verſe</hi> 7. he confeſſeth his owne ſinnes, and the ſinnes of his peo<g ref="char:EOLhyphen"/>ple, and of their fathers: Since the dayes of our fathers have wee beene in great treſpaſſe, untill this day: and the next words follow<g ref="char:EOLhyphen"/>ing in the Text, <hi>Should We againe joyne in affinity with the people of theſe a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hominations?</hi> And ſee what good <hi>Nehemiah</hi> ſaith to this poynt, <hi>Neh.</hi> laſt 27. <hi>Shall we hearken unto you to doe all this great evill, to treſ<g ref="char:EOLhyphen"/>paſſe against our God in marrying ſtrange wives? eſpecially conſidering what a deliverance we have had.</hi>
+            </p>
+            <pb n="11" facs="tcp:126089:8"/>
+            <p>Whence we may note that Gods deliverance of us out of former miſery, ſhould be a motive to us to make us beware of after impiety, having delivered us, ſhall we again ſinne. <hi>John</hi> 5.24. When our Saviour had cured <hi>Betheſdaes</hi> Cripple, he inſtructs him how to make uſe of this benefit, and how to behave himſelfe for after tim<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s: <hi>Be<g ref="char:EOLhyphen"/>hold thou art made wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le, ſinne no more lest a worſe thing come unto thee.</hi> Rather learne to ſerve God the better, conſidering what hee hath done for thee, <hi>Pſalme</hi> 50.15. <hi>Call upon me in the time of trou<g ref="char:EOLhyphen"/>ble, and I well deliver thee;</hi> and then what followes, <hi>thou ſhalt glorifie me.</hi> O conſider what God hath done for us, and ſhall we againe follow our drunkenneſſe, our covetouſneſſe, our oppreſſion, our par<g ref="char:EOLhyphen"/>ti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aling with deli quents, our treſpaſſes in doing Gods work negligently, our prophanation of the Lords day, and the like. Shall we thus requite the Lord for what hee hath done for us? oh no, leſt as <hi>Joſhua</hi> ſaid, <hi>Joſh.</hi> 24.20 to the people of <hi>Iſrael:</hi> If yee for<g ref="char:EOLhyphen"/>ſake the Lord, and ſerve ſtrange Gods, then he will returne and bring evill upon you, and conſume you after he have done you good. So if we returne to theſe, or the like former ſinnes, God alſo will returne to plague us after hee have done us good. Therefore take heed that we againe break not his Commandements. <hi>And ſhall we againe break his Commandements?</hi>
+            </p>
+            <p>I now come to the third part, the particular explication of the former Interrogation, <hi>and joyne in affinity with the people of theſe ab<g ref="char:EOLhyphen"/>hominations.</hi> In which words we have three things to obſerve and explain.</p>
+            <p>Firſt, what is meant by theſe people.</p>
+            <p>Secondly, what by joyning in affinity with them.</p>
+            <p>Thirdly, and laſtly, what theſe abhominations were.</p>
+            <p>Firſt, what by theſe people? I anſwer, firſt generally. Secondly, More ſpecially. Generally this was common to them, with the E<g ref="char:EOLhyphen"/>pheſians, and all other Gentiles, <hi>Epheſ.</hi> 2 12. <hi>That they were with<g ref="char:EOLhyphen"/>out Chriſt being aliants from the common-wealth of Iſrael, and ſtran<g ref="char:EOLhyphen"/>gers from the Covenant of Promiſe, having no hope, and Without God in the world,</hi> That is, without the knowledge of God in the world, neither knowing what be was in himſelfe, nor what he would be to them, without the comfortable feeling of Gods ſpirit within their Conſciences, without the right rule of ſervice and obedience to him, following dumbe Idolls as they were led. For <hi>Pſalme</hi> 96.5.
+<pb n="14" facs="tcp:126089:9"/>
+               <hi>All the Gods of the Nations were Idols:</hi> And <hi>Pſalme</hi> 115, 4. <hi>Their I<g ref="char:EOLhyphen"/>dols are ſil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er and gold, the worke of mens hands.</hi> There was but one true God, and they were all ignorant of him. <hi>In Jury</hi> is God well knowne, faith the Pſalmiſt, <hi>his Name is great in</hi> Iſrael; <hi>ſed non fecit taliter omni nationi;</hi> he hath not dealt ſo with every nation, neither have the heathen any knowledge of his Lawes.</p>
+            <p n="2">2. More ſpecially: What theſe people were you may ſee, <hi>Ezra</hi> 9. latter part of the firſt verſe, they were <hi>Canaanites, Hittites, Pere<g ref="char:EOLhyphen"/>zites, Jebuſites, Amorites, Moabites;</hi> nay yet more, the <hi>Egyptians,</hi> &amp; the <hi>Amorites:</hi> Lord how fowly was this people gone wide of thy way? with which of the abominable Idolaters amongſt the Nati<g ref="char:EOLhyphen"/>ons had not they tranſgreſſed? Firſt, obſerve what God had com<g ref="char:EOLhyphen"/>manded them, <hi>Thou ſhalt have no other Gods but me.</hi> And ſome of the learned think, that becauſe the <hi>Iewes</hi> were ſo prone to Idolatry a<g ref="char:EOLhyphen"/>bove all other ſinnes, that the Lord put this Commandement in the firſt place: and how often doth God inculcate this in Scripture, ſhewing them the vanity, rediculouſneſſe, and inſufficiency of all o<g ref="char:EOLhyphen"/>ther Gods.</p>
+            <p>Secondly, God had given them expreſſe charge concerning the moſt of thoſe nations in particular, that they ſhould not meddle with them for Contracts, Covenants, marriages, or the like, <hi>Deut.</hi> 7.3. Firſt when God ſhall bring thee into a land which thou ſhalt poſſeſſe, and caſt out many nations before thee: <hi>Hittites Girgaſhites, Amorites, Canaanites, Perizites, Hivites, Jebuſites, ſeven Nations, greater and mightier than thou;</hi> then were they to ſmite them, and utterly to de<g ref="char:EOLhyphen"/>ſtroy them, to make no Covenant with them, nor ſhew mercy unto them, nor to make any marriages with them, &amp;c. And yet you ſee how poynt blanke they did quite the contrary with theſe nations: For firſt, they deſtroy them not, and therefore God uſed them ever af<g ref="char:EOLhyphen"/>ter as inſtruments to plague them, and in great danger to have de<g ref="char:EOLhyphen"/>ſtroyed them.</p>
+            <p>Secondly, they made marriages with theſe very nations, of which they were ſo expreſſely forbidden.</p>
+            <p>Thirdly, not with one or two of them onely, but with all about them, 2 <hi>Kings</hi> 17.15. having once broken the hedge of modeſty, and obedience, they ſinned without limit, committing wickedneſſe even with greedineſſe. And when the great men, or the Princes and Rulers, had once made it an example, who had the chiefe hand in it,
+<pb n="15" facs="tcp:126089:9"/>
+               <hi>Ezra</hi> 9.2. the inferiours made bold ſcon the follow, till it grew ſo common, that no great matter was made of it: for com<g ref="char:EOLhyphen"/>munes and cuſtome of ſinne, out-faces the cry that is made a<g ref="char:EOLhyphen"/>gainſt it.</p>
+            <p>Fourthly, obſerve that theſe ſeverall nations ſerved ſeverall gods, ſome one Idoll, ſome another; ſo that Iſrael was now for as many ſeverall gods as they had marryed wives of ſeverall Nations: and what now becomes, of <hi>Thou ſhalt have no other Gods but me?</hi>
+            </p>
+            <p>Fiftly, and laſtly obſerve, that Iſrael had knowne, that God had caſt out theſe ſeverall nations for ſuch like ſinnes as they were now fallen into; for as the Pſalmiſt ſaith, <hi>They were mingled amongſt the heathen, and learned their workes: they joyned in affinity with the people of theſe abhominations. And ſhould we a<g ref="char:EOLhyphen"/>gaine breake thy Commandements, and joyne in affinity with the peo<g ref="char:EOLhyphen"/>ple of theſe abhominations?</hi> So much for the firſt poynt.</p>
+            <p>Secondly, let us ſee what is meant in joyning in affinity with them.</p>
+            <p>
+               <hi>Anſwer.</hi> It is to make marriages with them, and to be linked to them in kindred, giving their daughters to the ſonnes of the Heather, and intaking of the daughters of the heathen to their ſonnes, which affinity god had forbidden, and abhorred it; and yet this had over-ſpread almoſt the whole face of the peo<g ref="char:EOLhyphen"/>ple, <hi>Ezra</hi> 10.12. Wee are many that have tranſgreſſed this way, yea Princes, Prieſts, Rulers, Levits, Commons, and almoſt all, <hi>Ezra</hi> the 10. from the eighteenth to the end. And <hi>Nehem.</hi> laſt Chapter, from the three and twentieth Verſe to the ſeven and twentieth Verſe. I ſaw Iewes, ſaith he that marryed wives of <hi>Aſhdod,</hi> of <hi>Ammon,</hi> and of <hi>Moab,</hi> and their children ſpoke halfe in the ſpeech of <hi>Aſhdod,</hi> and could not ſpeake in the Iewes language, but according to the language of each people. And I contended with them, and curſed, and reviled them, plucked off their haire, and made them ſweare by God, yee ſhall not give your daughters unto their ſonnes, nor take their daughters unto your ſonnes, or for your ſelves; Did not <hi>Solomon</hi> King of Iſrael ſinne by theſe things? yet among many nations were there none like unto him: but he grievouſly offended in joyning in
+<pb n="16" facs="tcp:126089:10"/>affinity with ſeverall and many of the people of theſe abhomi<g ref="char:EOLhyphen"/>nations. <hi>And ſhall we againe break thy Commandements in joyning in affinity with the people of theſe abhominations?</hi>
+            </p>
+            <p>
+               <hi>In affinity:</hi> there cannot be affinity between them, but the ſe<g ref="char:EOLhyphen"/>quells will be diſadvantagious to the people of God: for they will induce them to more familiarity than can well ſtand with their integrity, and by faire words worke weake and unſtable ſoules from the way of God, <hi>Numbers</hi> 25. the three firſt verſes, When Iſrael was inticed by the beauty of <hi>Moabs</hi> daughters to commit whoredome with them, having no ſuch abode as with thoſe they had married and dwelt with: Yet from this they are inticed further to ſpirituall whoredome; they called the people to the ſacrifice of their gods: and they forſooth were ſo com<g ref="char:EOLhyphen"/>plementall and ſo affable, that though the God of <hi>Iſrael,</hi> which had brought them out of the Land, had ſaid enough to the con<g ref="char:EOLhyphen"/>trary, yet they did eate and bowed downe to their gods, and Iſrael joyned himſelfe to <hi>Baal-Peor,</hi> and the anger of the Lord was kindled againſt Iſrael, &amp;c. and ſoure and twenty thouſand fell of the plague for it. Thus God made them know him by feeling, whom they would not regard by hearing. And how truely herein did that of the Prophet <hi>Hoſea</hi> appeare, <hi>Hoſ.</hi> 4 11. <hi>Whoredome, Wine, and new Wine take away the heart:</hi> And when the heart and affections are once gone in Gods ſervice, what is all the body worth beſides; for even as a man cannot ſee with<g ref="char:EOLhyphen"/>out an eye, nor heare without an eare, nor taſte without a tongue, no more can a man ſerve God without an heart; leave that be<g ref="char:EOLhyphen"/>hinde him, and bring all the reſt to Gods houſe, and it is vain. God will ſay of that, as <hi>Joſeph</hi> did of <hi>Benjamin, See my face no more, except you bring your brother Benjamin.</hi> So ſee my face no more in my houſe, in mine ordinance, except you bring mee heart and affections with you. You know who ſaid, <hi>Filimi da<g ref="char:EOLhyphen"/>mihi cor, My ſonne give mee thy heart:</hi> But the wiſeſt man under the arches of heaven had his heart ſtollen away by Idola<g ref="char:EOLhyphen"/>trous women, 1 <hi>Kings</hi> 10. wherein <hi>Solomons</hi> worth, wealth, wiſedome is wonderfully magnified, <hi>Chapter</hi> 11.1. An eclipſe comes that over-ſhadowes all this glory, as thus: But King <hi>Solo<g ref="char:EOLhyphen"/>mon</hi> loved many outlandiſh women, together with the daughter
+<pb n="17" facs="tcp:126089:10"/>of <hi>Pharaoh,</hi> women of the <hi>Moabites, Ammonites, Edomites, Zi<g ref="char:EOLhyphen"/>donians,</hi> and <hi>Hittites:</hi> and in the three next Verſes, ſee what fol<g ref="char:EOLhyphen"/>lowes.</p>
+            <p>Theſe were nations that God forbad the children of Iſrael to match with, for ſeare of turning them after their gods: but <hi>Solomon</hi> clave unto theſe in love, he had ſeven hundred wives that were Princes and three hundred Concubines, and his wives turned away his heart, yea, when he was old. When then ſay ſome did he repent? Truely <hi>Joſephus</hi> in his Antiquity, and <hi>Beller<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ine</hi> in his <hi>Polemicals</hi> ſpeake but harſhly of him. His ſalvation is not queſtioned by me: But I ſuppoſe, that though his wives drew away his heart when he was old; yet he re<g ref="char:EOLhyphen"/>pented when hee was older; witneſſe his book of <hi>Eccleſiaſtes</hi> wherein his folly is acknowledged and bewayled; onely note this by the way; what the wit, and wiſedome of man is, without the aſſiſtance of God; when the Lord leaves a man to leane upon his naturalls, or artificiall Wiſedome, it is not able to ſupport him. Therefore as the Prophet ſaith, <hi>Jeremiah</hi> 9.23. <hi>Let not the wiſe man glory in his wiſedome, for the wiſedome of the world is but fooliſhneſſe with God,</hi> ſaith the Apoſtle, 1 <hi>Cor.</hi> 3.19. And <hi>Deut.</hi> 17.17. <hi>God hath given charge that the King of Iſrael ſhould not multiply wives unto himſelfe, that his heart turne not away.</hi> Yet you ſee that thongh God had given this charge, and had appeared unto him twice, and had ſo plainely manifeſted his will unto him, yet <hi>Solomon</hi> fell from the way that God had ſhowne him, and becomes as vile as many of the heathen, and goes beyond many of his ignorant and common ſubjects, in affinity with the people of theſe abhominations: <hi>And ſhall We againe breake thy Commandements, in joyning in affi<g ref="char:EOLhyphen"/>nity with the people of theſe abhominations?</hi>
+            </p>
+            <p>Let us now come to the third and laſt poynt, to know what theſe abhominations vvere.</p>
+            <p>It vvas an abhomination to God to have his people, to vvhom he had made himſelfe knovvn, to fall off to ſerve Idols, and dung-hill gods, that had but the name of gods, not the nature. In the firſt Book of <hi>Kings,</hi> the eleventh Chapter,
+<pb n="18" facs="tcp:126089:11"/>
+               <hi>Solomon</hi> is ſaid to goe after <hi>Milcom,</hi> the abhominations of the <hi>Ammonites,</hi> but it was not the <hi>Ammonites</hi> abhomination: that is, the <hi>Ammonites</hi> did not actually abhominate it: but that was an abhomination in the ſight of God, and ſhould have beene ſo in the ſight of all his people. Not onely Abho<g ref="char:EOLhyphen"/>minable, but Abhomination its ſelfe in <hi>obſtracto.</hi> And verſe 7. He built an high place for <hi>Chem<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſh,</hi> the abhomination of <hi>Moab;</hi> he ſtowed his affection firſt, and then coſts and goods to promote Idolatry. And verſe 8. He did the like for all the ſtrange wives, which burnt Incenſe and Sacrifice to their gods. Wonderfull, ſo weak a Sex out-ſtrip ſo wiſe a man in their conſtancy, every one of them conſtant to her god; and <hi>So<g ref="char:EOLhyphen"/>lomon</hi> unconſtant to his. He brought over to all theirs, and none of them brought over to him. Dumbe Idolls ſhall gain more Devotion, than the eternall, and ever-living god. Lord what is man in his owne ſtrength? if the illuminating ſpirit of God ſhine not into the darkneſſe of his heart, hee will travaile but in darkneſſe to darkneſſe. And not onely here, but in many other places of the Scriptures, Idolatry, or giving honour unto Idols, is called abhomination: <hi>Deuteronomy</hi> the ſeventh Chapter, the two laſt verſes: <hi>The graven Images of their gods ſhall yee burne with fire, &amp;c.</hi> Yea, and the very ſil<g ref="char:EOLhyphen"/>ver that was upon them was an abhomination to the Lord: Why ſo? becauſe it helped to beautifie them, and adorne them; by reaſon of which, the people were more mad upon them, and did more reverance them: ſo that God accounted it as accurſed things, and his people might not bring it into-their houſes. <hi>Ezekiel</hi> 8.6. <hi>Sonne of man ſeeſt thou not what they doe? even the great abhominations that the houſe of Iſrael commits, &amp;c.</hi> What were thoſe abhominations? Verſe 10, 11. <hi>Every forme of creeding things, and abhominable beaſts, and all the Idolls of the houſe of Iſrael portrayed upon the wall round about; and before them there ſtood ſeventy men of the Ancients of the houſe of Iſrael, there they had Conſers, and a thick cloud of Incenſe went up.</hi> This was to be offered to God, not to Idols. In the fourteenth verſe more abhomination, <hi>Women weeping for T<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mmuz.</hi> In the ſixteenth verſe more abhominations, <hi>Men
+<pb n="19" facs="tcp:126089:11"/>turning their backs towards the Temple of the Lord, and worſhip<g ref="char:EOLhyphen"/>ping the Sunne.</hi> 2 <hi>Chronicles</hi> 34.3.4. <hi>Joſiah</hi> having taken away the high places, Groves, carved Images, molten I<g ref="char:EOLhyphen"/>mages, and the Images of <hi>Baal;</hi> in the laſt Verſe hee is ſaid to have taken all the abhominations out of the Land.</p>
+            <p>Secondly, another branch of their abhominations, was the pollution of one another againſt the light of nature. <hi>Rom.</hi> 2.14, 15. <hi>When the Gentiles, which have not the Law,</hi> (tht in the written Law of <hi>Moſes</hi>) <hi>doe by nature the things contai<g ref="char:EOLhyphen"/>ned in the Law; theſe heaving not a Law, are a Law unto them<g ref="char:EOLhyphen"/>ſelves, having the dictate of reaſon, and conſcience to guide them, they ſhew the workes of the Law,</hi> (that is, ſuch workes as the Law injoynes) <hi>written in their hearts; their conſciences alſo bearing witneſſe, and their thoughts accuſing, or excuſing one another.</hi> Yet theſe againſt the light of nature uncovered the ſhame of their neareſt fleſh and bloud with thoſe grand ab<g ref="char:EOLhyphen"/>hominations. <hi>Leviticus</hi> Chapter 18 from the 6. verſe to the 24. Then he addes after a particular nomination of all thoſe abhominations; defile not your ſelves in any of theſe things. For not in one, or two, or three of them onely, but in all theſe abhominations fore-named, the nations are defiled, which I caſt out before you; and ſurely, if they were defiled with all the abhominations reckoned up in that place, they might well be termed a people of abhominations indeed. <hi>And ſhall wee againe breake thy Commandements, and joyne in affinity with the people of theſe vbhominations.</hi>
+            </p>
+            <q>With the people of theſe abhominations.</q>
+            <p>Whence wee may obſerve, that Idolatry and ſinnes done a<g ref="char:EOLhyphen"/>gainſt the light of nature, are abhominatious before God, 1 <hi>Pet.</hi> 4.3. Idolatry is called abhominable, abhominable Idolatries, and here I ſay in <hi>abstracto,</hi> abhomination; and they render the people that practice them abhominable, and to bee abhorred in the ſight of God, <hi>Levit.</hi> 26.39. And in the place of St. <hi>Peter</hi> fore alledged, you may ſee what the reſt of their ſinnes were: they walked in laſciviouſneſſe, luſts, (you have the particulers in the eighteenth Chapter of <hi>Leviticus</hi>) exceſſe of wine, ban<g ref="char:EOLhyphen"/>quetings,
+<pb n="20" facs="tcp:126089:12"/>revellings, &amp;c. which the dictate of right reaſon might have kept them from.</p>
+            <p>Such as theſe are an abhominable people, or people of abho<g ref="char:EOLhyphen"/>minations. And hath not that noble County of Lancaſhire too lately ſeene and felt the like abhominations in this their laſt Allarme, from that Country-plundering army, did ever the Heathen in exceſſe of wine, revelling, banquetting, in laſcivi<g ref="char:EOLhyphen"/>ouſneſſe, or lawleſſe luſts exceed them: have they not raviſhed women, defiled Virgins? and ſome of them made their boaſts of the generallity of their intentions that way; where<g ref="char:EOLhyphen"/>upon, from credible report, ſome poo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e innocent, and well-affected women, and virgins have become as diſtracted, other drowned themſelves upon it for griefe, as aſhamed ever after to looke their friends in the face, or any longer to live: other reſiſted to death, and were piſtolled, ſo that we have cauſe to take up the Prophet <hi>Jeremiah's</hi> complaint, <hi>Lamentations</hi> the laſt Chapter, the eleventh verſe. <hi>They raviſhed the women in Zion, and the maids in the Cities of Judah.</hi> But God remembred them in his appoynted time, and ſome of them will doe ſo no more.</p>
+            <p>Now concerning Idolatry, it may be committed two wayes, either when man worſhips ſomewhat for God which is not, as the groſſeſt, and moſt corrupt amongſt the Heathen did; or elſe when a man worſhips the true God after a falſe manner: and thus the Papiſts are groſſe Idolaters. Firſt, con<g ref="char:EOLhyphen"/>ception. Secondly practice. Firſt conceptive. The vulgar Papiſts, which the more learned cauſe to erre, they conceive of God, ſo as he is repreſented unto them in Images and Pictures, which helpe to frame their conceit like that of the <hi>Anthropo<g ref="char:EOLhyphen"/>mophites,</hi> to conceive of God as of an old man ſitting in hea<g ref="char:EOLhyphen"/>ven, or <hi>ſub humana ſpeciae,</hi> as <hi>Cicero</hi> ſaith, the moſt of the na<g ref="char:EOLhyphen"/>tions conceived of the great God. Thus in their mil conceiving of God they make an Idoll of him, framing unto themſelves ſuch a God as there is not: yea, daring to paint the Trinity, as ſubject to humane ſence, and reſembling a ſpirituall and un<g ref="char:EOLhyphen"/>bounded eſſence, by an humane and corporeall ſhape. In this ſence it is truely ſaid, <hi>Hab.</hi> 2.18. that the Image is a
+<pb n="21" facs="tcp:126089:12"/>teacher of lyes, becauſe it cauſeth another thing like unto its ſelfe to come into a mans minde; when as that thing which it pretends to reſemble, is nothing like it, but differs from it <hi>pluſquam genere.</hi> A Pidgeon may better reſemble a Sheep, than a finit, corporeall, organicall ſheep can an infinite, incom<g ref="char:EOLhyphen"/>prehenſible, and ſpirituall eſſence. Thus <hi>Jeremiah</hi> the tenth <hi>chap<g ref="char:EOLhyphen"/>ter,</hi> and the eighth <hi>verſe, The ſtock is a doctrine of vanity,</hi> it can reſemble nothing but vaine, and unprofitable things: Yet thus be ſtocks, images, or corporeall repreſentations, are the vulgar Papiſts taught to conceive of God: ſo that they are I<g ref="char:EOLhyphen"/>dolaters conceptive.</p>
+            <p>Secondly, they are ſo peactice, they bow to graven Images, and doe not worſhip God immediately in Chriſt, but by Saints, Angels, Pictures, or corporeall repreſentations, or the like traſh of humane invention, unwarrantable in the ſubſtance of Gods worſhip: thus though they pretend to worſhippe the true God, yet it is in falſe manner. To whom I ſay, as the Phariſees to Chriſt, <hi>By what authority doe they theſe things?</hi> Nay, and doe not divers of them ſinne alſo againſt the light of nature, in marrying within the degrees prohibited in ſa<g ref="char:EOLhyphen"/>cred Writ; and yet they <hi>(Alter Deus in terris)</hi> will not boggle to diſpenſe with that too, and ſo by conſequence ſhould be of greater power than that power that made the Law: ſure<g ref="char:EOLhyphen"/>ly in theſe they are before God a people of abhominations, <hi>And ſhall we againe breake thy Commandements, and joyne in affinity with the people of thoſe abhominations?</hi>
+            </p>
+            <p>The reaſons why ſo accounted before God, may bee theſe: the firſt may be drawne from the manner and nature of their worſhip and ſervice: it is of their owne invention, ſhuf<g ref="char:EOLhyphen"/>fling out that which God in great mercy and wiſedome from heaven hath manifeſted in his word: as if that were not e<g ref="char:EOLhyphen"/>minent enough, <hi>Matthew</hi> 15.3. Chriſt ſaid to the Phariſees, <hi>Why doe yee tranſgreſſe the Commandements of God by your tra<g ref="char:EOLhyphen"/>dition?</hi> Alas in the ninth Verſe, <hi>In vaine doe they worſhip mee, teaching for doctrine the Commandements of men.</hi> GOD did his people off<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Sacrifice; but hee left not it not to the
+<pb n="22" facs="tcp:126089:13"/>matter what, or the manner how for man to preſcribe. If a man had ſacrificed and offered a Dogs neck, or Swines bloud, (as it is in the Prophet) would not GOD have abhor<g ref="char:EOLhyphen"/>red it?</p>
+            <p>Well, is this ſo, that Idolaters, and ſinnes againſt the light of nature, or the Dictamen of right reaſon, are abhominatious to God? This then may be an uſe of inſtruction to teach us what to judge of them: they are abhominable in GODS ſight: God loathes their ſacrifices, and abhorres their ſervice, and cannot away with their practices. Let them vant whilſt they will in their words, varniſh what they can in their works, beautifie the works of their owne hands with gold, ſilver, and outward ornament, to make them inamoured of them, God ſeeth the workes of their hearts are naught, and that this their way is their folly: it may be plauſible to carnall eyes. but in Gods eyes no better than abhominations. <hi>And ſhall we againe break thy Commandements, and joyne in affinity with the peo<g ref="char:EOLhyphen"/>ple theſe abhominations?</hi>
+            </p>
+            <p>Secondly if ſo: then a Vſe of reproofe to ſuch <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat af<g ref="char:EOLhyphen"/>fect this affinity, and take delight in their needleſſe familiari<g ref="char:EOLhyphen"/>ty, and goe about to defend, excuſe, or plead for them, or the like, ſeeing God himſelfe hath paſſed ſentence upon them, and <hi>let God be true, and every man a lyer.</hi>
+            </p>
+            <p>Thirdly, and laſtly, if ſo, (as you have heard) then e<g ref="char:EOLhyphen"/>very people cannot be ſaved in their owne Religion, practiſing according to their owne deviſed principles, as ſome fondly have feigned. For as there is but one God, ſo but one Bap<g ref="char:EOLhyphen"/>tiſme, and one truth, as ſaith the Apoſtle, and whoſoever ſhuffles out this truth, and practiſeth according to their owne principles, ſhall be ſure to come ſhort of that reward which the faithfull ſheep of Chriſt who heare his voyce, ſhall attaine unto.</p>
+            <p>Thus much for that poynt.</p>
+            <p>The Expoſtulation followes, <hi>Wouldſt thou not bee angry with us?</hi>
+            </p>
+            <p>This Expoſtulation implyes a ſtrong affirmation, as not
+<pb n="23" facs="tcp:126089:13"/>onely here, but in many other places of ſacred Writ, as if he ſhould have ſayd; doubtleſſe thou wouldeſt be angry with us: Now God is not ſubject to any paſſion, or perturbation of minde, as men are: And therefore this, and many ſuch like ſpeeches are ſpoken <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>humanitus,</hi> after the meanner of men. God is not angry affective, but effective, not by any turbulent paſſion, as the creature is. God is not angry affective, but effective, not by any turbulancy of inter<g ref="char:EOLhyphen"/>nall or ſubjective paſſion; but is ſo ſaid to be in regard of the effects, as when God doth to men, as one man in his anger doth to another; then God is ſaid to be angry as to frowne up<g ref="char:EOLhyphen"/>on him, to chide him, to diſ-affect him, to ſtrike him, puniſh him, kill him, or the like: and hen God doth the like, then he is ſaid to be angry; for theſe and the like are the ſignes of his anger.</p>
+            <p>
+               <hi>Wouldſt not thou be angry with us?</hi> Angry with us, for what? the fore-going words import; <hi>For joyning in affinity with the people that live in Idolatry, and uncleanneſſe.</hi> whence note, that it is the peoples impiety that provokes God to bee angry, <hi>Deut.</hi> 32.21. Theſe provoked me to anger with their vani<g ref="char:EOLhyphen"/>ties. And <hi>Deut.</hi> 31.16.17. God having foretold how the people ſhould goe a whoring after other gods in a ſtrange land, and that they would forſake him, and break the Covenant which he had made with them: then hee tells them that for this his wrath would waxe hot againſt them: and then ſee the fearefull effects of it in that place. To the like purpoſe read the ſeventh Chapter of <hi>Jeremiah,</hi> the 18, 19, and 20. Verſes. And <hi>Pſal.</hi> 78. from 30. to 34. where the many benefits are Catalogued which God did for Iſrael, yet they were not eſtranged from their luſt: but whilſt the meat was in their mouthes the heavy wrath of God came upon them, ſlew the fatteſt of them, and ſmote downe the choſen men that were in Iſrael: for all this they ſinned ſtill, and believed not for his wondrous workes; therefore their dayes did he conſume in vanity, and their yeares in trouble. And Verſe 58. they provoked him to an<g ref="char:EOLhyphen"/>ger with their high places, and moved him to jealouſie with their graven Images. And <hi>Numbers</hi> 25.3. when the Iſraelites
+<pb n="24" facs="tcp:126089:14"/>had committed whoredome with the daughter of <hi>Moah:</hi> It is there ſaid, <hi>That the anger of the Lord was kindled againſt them.</hi> Thus we perceive the Doctrine plaine, and the Scriptures are every where copious of it.</p>
+            <p>The reaſons why a peoples impiety provokes God to bee angry are many: I will onely content my ſelfe with theſe three.</p>
+            <p>The firſt may bee drawne from the purity of Gods nature, to which nothing is more oppoſite than the ugly impurity of ſin, <hi>Hab.</hi> 1.13. <hi>Thou hast purer eyes than to behold evill, and thou canſt not look on iniquity.</hi> That is, thou canſt not looke on it, <hi>viâ approbationis, or delectationis, ſed viâ indignationis,</hi> thou canſt not looke upon it by way of approbation, or delectation, but by way of indignation.</p>
+            <p>The ſecond may be drawne from the holineſſe, and equity of the Law of God, which is tranſgreſſed; and ſo God made angry by a peoples ſinne, when they preferre their owne luſt, before the obſervance of ſuch a Law, <hi>Deut.</hi> 4.8. <hi>What Nations is there that hath ſtatutes and judgements ſo righteous as all this Law which I ſet before you this day.</hi> And ſhall hee not be angry then at the breach of ſuch a Law.</p>
+            <p>The third and laſt may be drawne from man himſelfe: God is angry to ſee man worke his owne ruine, that the ſweet poy<g ref="char:EOLhyphen"/>ſon of ſinne ſhould bewitch him to deſtroy himſelfe: When God had forewarned <hi>Iſrael</hi> of ſinne, and yet ſaw him ſinne againſt what he had fore-warned him of. See how mournful<g ref="char:EOLhyphen"/>ly he expoſtulates with them: <hi>Why will yee dye, O yee houſe of Iſrael?</hi> And <hi>Hoſ.</hi> the ſixth Chapter, from the fourth to the eighth Verſe, <hi>Oh Ephraim what ſhall I doe unto thee? Oh Ju<g ref="char:EOLhyphen"/>dah what ſhall I doe unto thee; for your goodneſſe is as the morning cloud, and as the earely dew is goes away, therefore have I ſhewed them by the Prophets; I have ſlaine them by the words of my mouth, and they judgements are as the light that goeth forth,</hi> &amp;c. <hi>But they like men have tranſgreſſed the Covenant, there have they dealt treache<g ref="char:EOLhyphen"/>rouſly againſt me.</hi> Thus God is angry to ſee his owne Image de<g ref="char:EOLhyphen"/>faced, and that men ſhould walke in darkneſſe, rather than light, when he had ſo cleerly made the way of ſalvation known unto them.</p>
+            <pb n="25" facs="tcp:126089:14"/>
+            <p>Well, is this ſo, that a peoples impiety provokes God to be angry? this then plainly lets us ſee what it is that hath ſo much provoked Gods wrath and anger againſt this land and nation. Oh it is ſinne.</p>
+            <p>Firſt, it is great and grievous ſinnes.</p>
+            <p>Secondly, ſuch ſinnes unpuniſhed.</p>
+            <p>Thirdly, and laſtly, ſuch ſinnes alſo unrepented of in pri<g ref="char:EOLhyphen"/>vate.</p>
+            <p>For the firſt, What ſinne is it that <hi>England</hi> hath not beene guilty of? what ſinne was in <hi>Iſrael</hi> that hath not beene in <hi>Eng<g ref="char:EOLhyphen"/>land?</hi> I will runne but through ſome capitall ones, by way of parallel, and <hi>ex pede Herculem,</hi> &amp;c. was it ſhedding the bloud of the Prophets, <hi>Luke</hi> 13.34. what havock was made of ſuch as could be catched in the Marian dayes? and how much more ſhould be ſpilled now, if the bloudy and cruell Romaniſts, and ſuch like, could but attaine their ends: but their curbe is, that they have ſo many of their Prieſts in priſon already, that they dare not beginne to give way to their fury to the full, for feare that theſe Pot-mongers (yet holy Catholikes) doe too ſpee<g ref="char:EOLhyphen"/>dily anſwer it, and bee helped towards their purgatory in an hempen ſtring. Yet ſo many as God ſuffers to fall into their hands, they doe uſe moſt baſely, doggedly, and unworthily, and irreverendly, teſtifying by their facts, what they wiſh in ſuch caſes: and theſe times can tell what inhumanity and cru<g ref="char:EOLhyphen"/>elty have beene uſed to ſome of them, even to the very death.</p>
+            <p>Secondly, was it pollution, or prophaning of the Sab<g ref="char:EOLhyphen"/>bath? <hi>Ezekiel</hi> 20.13. Wee have prophaned our Chriſtian reſt, or Sabboth, if a man may ſo call it, and no be accoun<g ref="char:EOLhyphen"/>ted a <hi>Sabbatarian,</hi> becauſe the word is Hebrew; I know no reaſon elſe, the world knowes we meane no <hi>Jewiſh</hi> Sabboth? but be it the Lords day, equivolently wee meane the ſame; no thankes to ſome that we have a day to humble our ſelves in be<g ref="char:EOLhyphen"/>fore God, and acknowledge our ſinnes, and confeſſe our faith, and learne his will, called by either name. We have propha<g ref="char:EOLhyphen"/>ned this by a Law, and have ſet men at liberty to ſinne: ſo that God might have the name of it, and mans luſts, and the devils
+<pb n="26" facs="tcp:126089:15"/>moſt of the practice. Before wee reſtrayned the preaching of the Word, and ſo quarrelled with the Prophets, that wee made them weary of Preaching, and for feare that they ſhould urge ſome Law to curbe men from ſinning, they let them have liberty as by Law, that they might ſinne without curbing; and as if the corrupt nature of man were not apt of its ſelfe e<g ref="char:EOLhyphen"/>nough to ſinne, the winde of ſuch wickedneſſe hath blowne in the ſayles of it. Bleſſed be the name of the Maſter and Lord al<g ref="char:EOLhyphen"/>ſo of that day, that we have lived to ſee a godly direction for the reformation of it.</p>
+            <p>Thirdly, was it ſhamefull ſwearing, and ſwiniſh drunken<g ref="char:EOLhyphen"/>neſſe? wee have herein exceeded our neighbouring Kingdoms, and other Countries: The <hi>Belgian</hi> Souldiers, and the <hi>Indian</hi> Pipers ſhew'd us but the way; the Diſciples have exceeded their Maſters: Drinke and Tobacco are become almoſt as rela<g ref="char:EOLhyphen"/>tives, <hi>Poſito uno poniter etiam &amp; alterum,</hi> or like body and ſha<g ref="char:EOLhyphen"/>dow they ſollow one the other. I may ſafely ſay no two crea<g ref="char:EOLhyphen"/>tures in England have beene more abuſed of latter yeares, eſpe<g ref="char:EOLhyphen"/>cially Tobacco; many give fire here, that will not charge an enemy: and if you aske moſt of them why they take it, being young, and in perfect health and ſtrength, they will ſay, they can give you no reaſon for it, but becauſe others take it: ſure<g ref="char:EOLhyphen"/>ly they ſinne in ſo needleſſe miſpending of that creature, which hath its naturall and medicinall effects as other Herbes have, be<g ref="char:EOLhyphen"/>ing rightly uſed. this is like the anſwer of a no—Religion Gentlewomen I have heard of in <hi>Lancaſhire,</hi> who ſaying her Husband was a Proteſtant, was asked the reaſon why ſhe alſo went not to the Church? to whom ſhee would give no reaſon but this, Becauſe it was not the faſhion of the Gentlewomen in that Countrey to doe ſo: Many take it onely to keep them from being idle: and I have knowne divers to have brought ſuch a neceſſity upon themſelves hereby, that they could not be without it. If an old fire-houſe, and common Tobacco-taker be but without ſmoke a moneth together, they are both in danger to fall in pieces.</p>
+            <p>In the dayes of yore, <hi>England</hi> was the moſt temperate of all the Northerne Countries: and in the dayes of our fathers
+<pb n="27" facs="tcp:126089:15"/>it was as great a wonder to have ſeene a man drunke, as it was of late upon a market day to have ſeene a man with mony ſober. The Apoſtle tells us in his time that thoſe that were drunke were drunke on the night: but in our times they were drunk on the night, and all the day too. It was our honour when it was but ſaid the drunken Dutch; it was our ſhame when it might have beene ſayd, the drunken Engliſh. Before the phraſe runne (as drunke as a Begger: but now of late Beg<g ref="char:EOLhyphen"/>gers could get no roome to be drunke in for ſwarmes of Gentle<g ref="char:EOLhyphen"/>men. Of late our land was over-flowne with drinkes (but woe unto us that we have ſinned) now it is as over-flowed with bloud. Oh a drunken devill is hard to caſt out: this kind in<g ref="char:EOLhyphen"/>deed will not out, without faſting and prayer.</p>
+            <p>Fourthly, was it ſwearing or blaſphemy? it was ſo com<g ref="char:EOLhyphen"/>mon in <hi>Iſrael,</hi> that the Prophet complained, <hi>that the Land mourned becauſe of Oathes.</hi> And in <hi>England,</hi> Oathes have ſtriven with words: and our children have no ſooner learned to ſpeake than they have learued to ſweare. <hi>Brava<g ref="char:EOLhyphen"/>does</hi> thinke that they cannot be terrible enough without ſwea<g ref="char:EOLhyphen"/>ring. <hi>Joſhua</hi> wonne farre more battailes with fewer Oathes: nay ſome graceleſſe gentlemen have thought it a grace to their ſpeech: it may be ſo, for they often uſe it before they dine: and as if old oathes were out of date, and had worne away their vigour, they have deviſed new ones to helpe them on with more expedition towards the Brimſtone mines. Ta<g ref="char:EOLhyphen"/>vernes, Tipling-houſes, Courts, Countreys, Cities, Towns, Chambers, ſtreets, have all of them abounded here<g ref="char:EOLhyphen"/>in. Lord, how many oathes have beene ſworne in one town, upon one market day? how many in a weeke then? how ma<g ref="char:EOLhyphen"/>ny thouſand thouſands in a year? and we have uſed it in all theſe places many yeares? how ſhould the Lord chuſe but be angry with us?</p>
+            <p>Fiftly, was it whoredome, or all manner of uncleanneſſe? Thus was it in Iſrael: <hi>Jeremiah</hi> 5.7. <hi>Though I fed them to the full, yet they committed Adultery, and aſſembled themſelves by companies in Harlots Houſes.</hi> They frequented Stewes, and whore-houſes, and ſpent their ſtrength in the houſes of Stran<g ref="char:EOLhyphen"/>gers;
+<pb n="28" facs="tcp:126089:16"/>and hath not this beene a great part of our gull-gallants practice in the time, or the apprentiſhip of their folly? and what have they more to boaſt of, than their uncleanneſſe? I have with much griefe obſerved it to have beene the cuſto<g ref="char:EOLhyphen"/>mary, and almoſt continuall diſcourſe of theſe men at their Tables and have boundred their diſcourſe; give me leave to ſay, within the compaſſe of theſe four H. H. H. H. A Hound, an Horſe, an Hawk, and an Whore God hath taken up their mindes now with ſomewhat elſe, and what fruit have they now of ſuch paſſages concerning theſe as of which they may bee a<g ref="char:EOLhyphen"/>ſhamed? how freely would theſe ſpend their blouds in need<g ref="char:EOLhyphen"/>leſſe and raſh duells? Let us ſee how much of it they will now ſpend to ſuccour the Land of their nativity.</p>
+            <p>Sixtly, was it pride. <hi>Iſaiah</hi> 3.16. <hi>The daughters of Zion were haughty, and walked with ſtretched out necks, and wanton, or wandring eyes, walking and mincing it as they went, and made a tinkling with their feet.</hi> Are the daughters of <hi>England</hi> behinde with them in this? And was it pride in the daughters of <hi>Iſra<g ref="char:EOLhyphen"/>el,</hi> and no pride in the daughters of <hi>England?</hi> Was it ſinne in them, and none in theſe? or is not the God of <hi>Iſrael</hi> the God of <hi>England?</hi> Yes, but was there ever <hi>peccatum ſine palio?</hi> a naked ſinne, that had no excuſe to cover it? I thinke not. The firſt ſinne that ever was committed, was no ſooner in the world, but our firſt Parents had provided a cloake too of excuſe for it, but it could not hide it from God, no more than fig<g ref="char:EOLhyphen"/>leaves could their ſhame. Oh, alas in ours, it is but the poſture of good breeding, it is but a comely framing of their pace, and a carrying of their bodies with a grace.</p>
+            <p>For anſwer, I ſay they may be poſtured in humility, paced without affected nicity, and apparrelled in modeſty; But when theſe are done affectedly, to ſet themſelves out for the ap<g ref="char:EOLhyphen"/>plauſe of Popularity, we know certainly, that its none of the leaſt impiety, and will bring the like plague to theſe, that he did to thoſe.</p>
+            <p>Doe they thinke that this Scripture is out of date, 1. <hi>Tim.</hi> 2.9 10. Wherein they are taught to array themſelves in comely <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pparell, with ſhamefaſtneſſe, and modeſty. Now all ſorts of ap<g ref="char:EOLhyphen"/>parrell
+<pb n="29" facs="tcp:126089:16"/>are not comely for all ſorts of people: Neither can every one with ſhamefaſtneſſe and modeſty weare ſo good, or ſuch and ſuch, as God hath made much above them in Birth, Worth, or Calling, though they were able to get it, not with broyded Haire, or Gold, or Pearle, or coſtly apparell. See the <hi>Geneva</hi> note upon that place, but as becometh women that profeſſe the ſeare of God, with good works, 1. <hi>Pet.</hi> 3.5. After this manner in time paſt did both women that truſted in God attire them<g ref="char:EOLhyphen"/>ſelves, and were ſubject to their husbands. Yet theſe were ma<g ref="char:EOLhyphen"/>ny of them very holy women, and come of good ſtock, and fa<g ref="char:EOLhyphen"/>milies, ſuch as <hi>Sarah, Rebecca, Rachel,</hi> and the like: If theſe with a good conſcience might ſafely have worne all the apiſh toyes, and out-landiſh faſhions that were then to be found, in other nations and countries, we know that they have beene able to have compaſſed them; but you heare that they were ſubject to their Husbands no doubt in that particular as well as others, to weare ſuch apparell as they in their wiſdome, and diſcre<g ref="char:EOLhyphen"/>tion, thought moſt fit for them, but that was in thoſe dayes, when <hi>Sarah</hi> called <hi>Abraham</hi> Lord: yea but ſince that time many of the daughters of <hi>Sarah</hi> will needs Lord it over <hi>Abraham,</hi> and carry themſelves as if they had beene made for nothing elſe, but painted ſtoops to hang new faſhions on, what <hi>France,</hi> what <hi>Spaine,</hi> what <hi>Polonia,</hi> what <hi>Italy</hi> can invent, or what theſe foure Nations can deviſe, only the apiſh Engliſh will have for a guiſe wherein every one ſinfully tranſgreſſe their ranke, and doe not modeſtly apparell themſelves according to their callings, and ſta<g ref="char:EOLhyphen"/>tions, but every one will array themſelves in as high a manner as they can reach, as though it were lawfull for a man to doe all that hee might doe, ſuch people will be ſure then to doe ſome<g ref="char:EOLhyphen"/>what which they ſhould not doe: We have many Yeomen in England, who have better eſtates, then divers Eſquires have, yet it is ridiculous in theſe men to be habit themſelves equally with Eſquires: I might inſtance in many others, but of all the reſt theſe two eſpecially, may be inſtanced in. I have lately in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> obſerved two great plenties, common Atturnies, and com<g ref="char:EOLhyphen"/>mon Ale-houſes: but mee thinkes I perceive alſo two great dearths, that is of worthy, and ancient Eſquires, and of ſubſtan<g ref="char:EOLhyphen"/>tiall,
+<pb n="30" facs="tcp:126089:17"/>and ancient Yeomen: For the former are almoſt all cramb<g ref="char:EOLhyphen"/>led up to be Knights: O how glorious a land of Ladies then have wee: For the latter, the moſt of them will needs befoole themſelves into Gentry, and ſo beget a nick name before the time, that becomes them not: And as for great ones, ſome of them alſo vainely lay out more upon new faſhions in one ſix moneths, then perhaps would maintaine an Hoſpitall for twice as long after: they have forgotten it ſeems (or elſe make no<g ref="char:EOLhyphen"/>thing of it) that God will viſit thoſe that weare ſtrange appa<g ref="char:EOLhyphen"/>rell. But what? ſhould I exempt the pride of mens heeles any more, then that of their heads, or any other part of the body? ſurely no, what ſhall I ſay then of gingling, and tinkling ſpurs, which are as nothing in theſe dayes: Why? becauſe cuſtome has made them commendable. Well, but ſeeing it is the faſhion <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ill not excuſe a man if it be a ſinne: was the tink<g ref="char:EOLhyphen"/>ling with the feet with ſuch thin curious plate, as the daughters of <hi>Sion</hi> had upon their ſhoo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſin with them: And is their tinkling with the heeles none in ours? Its true I grant it, ſuch may for neceſſities ſake be had, without affection, or priding a mans ſelfe therein, hee whoſe heart can anſwer thus much for him, is well: but I ſeare mee, where one can doe thus, if the Conſcience be asked, five cannot. And if they be worne <hi>Extra neceſsitatem,</hi> and with affectation, and pride, then ſurely whe<g ref="char:EOLhyphen"/>ther we will, or no: Wee muſt in reaſon acknowledge it a ſin: permit me mine from, and then I ſay thus: It may be ſome graceleſs Heir of ſome grave Impropriator, who was willing to out himſelfe of what his Father left him (not out of conſcience) but being out of coyne) was the firſt Inventour of this faſhion, who having laid the price of the ſteeple upon his backe, was ever after content to weare the bels at his heels: cuſtomary ſinning is an old faſhion; yea ſo old, that I wonder that new fa<g ref="char:EOLhyphen"/>ſhion Mongers leave it not off, and take up a better.</p>
+            <p n="7">7. Was it loathing of Manna, or wearineſſe in Gods heaven<g ref="char:EOLhyphen"/>ly Ordinances, <hi>Mat.</hi> 1.13. Yee have ſaid what a wearineſſe is this? and yee have ſnuffed at it. (ſaith the Lord of Hoſts) oh have not wee done ſo, and beene ſo? And have wee not ſaid as much in our hearts, as the Iewes did, <hi>Amos</hi> 8.5. When will
+<pb n="31" facs="tcp:126089:17"/>the New Moon be gone, that we may ſell corne; and the Sabboth, that we may ſet forth Wheate, and make the Epha ſmall, and the Shekell great; the meaſure too little, and the price too great. Thus have wee ſaid, oh when will this day be ended? The Lords day is a long day, the worldling is out of his Element, till his Noſe be over his dung-hill. And what dulneſſe and wearineſſe have wee found in our ſelves at Sermons, Sacrifices, Sabboths? when but a reaſonable porti<g ref="char:EOLhyphen"/>on of time hath beene allotted to us? Surely, if wee had a<g ref="char:EOLhyphen"/>ny delight in theſe things, wee ſhould ſoone have ſhaken theſe off: for <hi>trahit ſua quemque volnptas,</hi> that which a man hath pleaſure and delight in, takes away the tediouſneſſe of it.</p>
+            <p>Eighthly, and laſtly, was it ſtubbornneſſe and hard-heart<g ref="char:EOLhyphen"/>edneſſe in an impenitent ſtate, under ſo much variety of mer<g ref="char:EOLhyphen"/>cies and judgements, <hi>Jeremiah</hi> 18.12. <hi>Notwithſtanding Gods proclaiming of mercy,</hi> verſe the eighth, <hi>and threatning judge<g ref="char:EOLhyphen"/>ment,</hi> verſe the tenth, <hi>yet they ſaid they would walke every man after his owne imagination, and doe every man after the ſtubborn<g ref="char:EOLhyphen"/>neſſe of his owne wicked heart.</hi> Thus againe it was with the <hi>Iewes, Pſalm</hi> 78. almoſt throughout, with interchanges of judge<g ref="char:EOLhyphen"/>ments and mercies: and hath it not beene ſo with us? with how many mercies hath God wooed us from our wickednes? and by how many judgements would he have terrified us from them, by Plague, Peſtilence, Famine, Pox, cold Springs, late, and rainy harveſts, decay of trading, and the like: but we ſtill remained with dry eyes, and hard hearts before him; and now he hath ſent the heavieſt of his judgements, the ſword; ſo that for all this his anger was not turned away, but his hand was ſtretched out ſtill: and if wee ſhould thus doe ſtill, wouldſt not thou be anrgy with us? yes ſurely: And be<g ref="char:EOLhyphen"/>cauſe of theſe and the like offences of our Land, is Gods wrath broken out upon the nation.</p>
+            <p>Secondly, as theſe ſinnes have beene grievous, ſo to adde to Gods judgements, they have not beene puniſhed. For if ſo by man they might have ſaved god a labour, <hi>Numbers</hi> 25.8. compared with the eleventh, when the people of <hi>Iſrael</hi>
+               <pb n="32" facs="tcp:126089:18"/>committed whoredome with the daughters of <hi>Moab</hi> 1 and a<g ref="char:EOLhyphen"/>mongſt them one more impudent than the reſt, would ſinne more openly, <hi>Phineas</hi> tooke a Iavelin, and ru<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne both the man and the woman through: and by this executing of juſtice, he turned away Gods wrath from <hi>Iſrael,</hi> ſeeing he was zea<g ref="char:EOLhyphen"/>lous for Gods ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke amongſt them. And <hi>Pſalme</hi> 106.30. <hi>Phi<g ref="char:EOLhyphen"/>neas</hi> ſtood up, and executed judgement, and the plagne was ſtayd: but this added to <hi>Englands</hi> miſery, that though her ſinnes were grievous; yet notwithſtanding they were rather countenanced than<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>niſhed. Men durſt have beene drunk in the open Sun-ſhine, and have ſtared the Magiſtrates in the face, and not any whit affraid: Nay, many of thoſe that ſhould have puniſhed it, were content to ſhare in it: and indeed, there would hardly any ſuch thing as drunkenneſſe be acknowledged in this latter age: upon complaint and ex<g ref="char:EOLhyphen"/>amination wee could not finde out any ſuch ſinne: as our common ſaying is, wee could not ſee the wood for trees. There was foxing, and diſtempering with drinke, and a lit<g ref="char:EOLhyphen"/>tle merry, and the like: But it was too uncivilly ſpoken, to ſay, that ſuch a Gentleman was drunke, and the like. Well, God ſhall one day ſet another kinde of fire in the tayles of theſe Foxes, then <hi>Sampſon</hi> did in his: and this diſtempering for<g ref="char:EOLhyphen"/>ſooth with drinke ſo mincingly ſpoken; God ſhall find ſuch a diſtemper, as will one day exclude them out of the kingdome of heaven.</p>
+            <p>In Courts of Iuſtice, a Caterpillar of a Common-wealth might have hayled an honeſt, innocent, and harmleſſe man into compaſſe, and ſome would have countenanced him: whereas he had beene ſitter to have beene committed: one or other would have ſupplyed him for his baſe deſignes, when better men could have neither end, nor remedy againſt them.</p>
+            <p>In Courts Eccleſiaſticall, as the matter was of late handled, was not ſin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e bought and ſold? pay Fees, and have Abſolution, and repent when they could, when they would: and in regard of the <hi>Proxis,</hi> a very <hi>Sceliton</hi> of diſcipline was left, Whoredome and uncleanneſſe was touched with a gentle hand, for feare they
+<pb n="33" facs="tcp:126089:18"/>ſhould merit the Court no more, and eaſineſſe of puniſhment gives encouragement to ſin, or elſe their purſes were ſo purged of their minerals, that our pray was inſtead of a decade of Prayers, if no great hope of a ſecond returne: yet then they were the moſt honeſt Phariſees, and did moſt truly pay tyth of all they ſo poſ<g ref="char:EOLhyphen"/>ſeſſed. For if they received twenty pieces, they would ſend two <hi>ad pios uſus</hi> to the Pariſh, where the fault was committed, and was not this a golden age? God was vexed to the heart to ſee that no man was ſo zealous in his cauſe, as to ſtand out for the puniſhment of ſinne, ſo hee tooke it into his owne hand, and its a fearefull thing to fall into the hands of the living God to be puniſhed: Hee gives now Commiſſion to the Sword to eat fleſh, and to drinke blood, untill hee have caſed, and revenged himſelfe of his Adverſaries.</p>
+            <p n="3">3. And laſtly, as thy vvere unpuniſhed in publick, that others might heare and feare, and doe no more preſumptuouſly, ſo they were not repented on in private, as plainly appeared to the world, but men grew hardned in them, <hi>Ier.</hi> 5.3. <hi>Thou haſt ſtricken them, but they have not ſorrowed, then haſt conſumed them, but they have refuſed to receive correction, they have made their faces harder then a ſtone, they have refuſed to returne,</hi> their hearts were like <hi>Nabals,</hi> or like the Nether Milſtones, they grew without remo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe, they found that of <hi>Auguſtine</hi> too true, <hi>Conſuetude peccandi tollit ſen<g ref="char:EOLhyphen"/>ſum peccati,</hi> cuſtome of ſin tooke away ſenſe of ſin: no marvell then, if God was angry with us, having beene ſuch a Nation as this.</p>
+            <p>This being true then, that a peoples impyety provokes God to be angry: then if we would avoyd Gods anger let us a<g ref="char:EOLhyphen"/>voyd ſinne, for he is juſt as well <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s mercifull. If I ſin, ſaith <hi>Job,</hi> hee narrowly markes my ſteps, and will not hold mee innocent. And if GOD be angry, conſider the inconveni<g ref="char:EOLhyphen"/>ences of it, and they may deter thee from ſinning.</p>
+            <p>Firſt, if he be angry, hee can arme all the creatures to be angry with him, <hi>Job</hi> 5.23. If a man bee in favour with God, the ſtones of the field, and the beaſts of I the field are in league with him. Even ſo on the contrary, if a man be out
+<pb n="34" facs="tcp:126089:19"/>of favour with God, theſe are alſo all out of league with him.</p>
+            <p>Secondly, when he is angry hee will not heare the pray<g ref="char:EOLhyphen"/>ers of his children: <hi>How long wilt thou bee angry with thy people that prayeth?</hi> and <hi>Lamentations</hi> the fourth Chapter, the two and fortieth, three and fortieth, and foure and fortieth Verſes. <hi>Wee have finned and rebelled, therefore thou haſt not ſpared, thou hast covered us with wrath, and perſecuted us: thou haſt ſlaine, and not ſpared:</hi> (and being thus angry with us) <hi>thou haſt covered thy ſelfe with a cloud, that our prayers ſhould not paſſe through.</hi>
+            </p>
+            <p>Thirdly, and laſtly, when he is angry, we are in dan<g ref="char:EOLhyphen"/>ger of deſtruction every moment, one way or other: it is a feraefull thing to be out of Gods protection. So much for that poynt.</p>
+            <p>I now come to the effects, and they are two.</p>
+            <p>Firſt, <hi>Till thou hadſt conſumed us.</hi>
+            </p>
+            <p>Secondly, the extremity of his temporall judgements, ſo great <hi>till there was no re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nant, nor eſcaping.</hi>
+            </p>
+            <p>Firſt of the former, God would conſume us: That is, though now wee bee a great body, yet this would deſtroy us off the earth, <hi>Iſaiah</hi> 64.7. <hi>Thou haſt conſumed us becauſe of our iniquities:</hi> And <hi>Deuteronomy</hi> 4.24. <hi>Our God is a conſu<g ref="char:EOLhyphen"/>ming fire, and a jealous God.</hi> Alas, if hee bee but angry, with the breath of his noſtrils hee can blow whole Kingdomes downe, or bring any people to be few in number, and that many wayes; <hi>Deuteronomy</hi> 28.21, 22. <hi>The Lord ſhall cauſe The Pestilence to cleave unto thee, untill hee have conſumed thee from the Land. The Lord ſhall ſmite thee with a conſumption, and with the Fever, and with a burning Ague, and with a fer<g ref="char:EOLhyphen"/>vent heat, and with the ſword,</hi> (that is now our m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſerie) <hi>and with Blaſting, and with the Mildew, and they ſhall pur<g ref="char:EOLhyphen"/>ſue thee untill thou periſh</hi> Yea, and in the ſeven and twentieth verſe; <hi>He will ſmite thee with the botch of Egypt, and with the Emrods, and with a Scab, and with an Itch, whereof thou canſt not be healed.</hi>
+            </p>
+            <pb n="35" facs="tcp:126089:19"/>
+            <p>The ſecond followes, <hi>So that there ſhould bee no remnant nor eſcaping. Ezekiel</hi> 6.8. God ſaid hee would leave a rem<g ref="char:EOLhyphen"/>nant, that there might be ſome that ſhould eſcape the ſword, when he ſcattered them among the Countries. And <hi>Nehem.</hi> 1.9. There was a reſidue of the Captivity, though in great affliction. <hi>Iſaiah</hi> 1.9. <hi>Except the Lord of Hoſts had reſerved unto us even a ſmall remnant, we had beene as</hi> Sodome, <hi>and ſhould have beene like unto</hi> Gomorrah. That is, we had beene utterly conſumed already: for it had beene as eaſie for him to have taken away all, as to have taken away many, and to have left a remnant. <hi>Iſaiah</hi> 37.31. The remnant ſhould e<g ref="char:EOLhyphen"/>ſcape of the Houſe of <hi>Iudah,</hi> ſhould take deep root downward, and bring fruit upward: but if they ſhould thus offend again after the Captivity, as they had done before, then ſhould there be no remnant, nor eſcaping: but this we know was reme<g ref="char:EOLhyphen"/>died by <hi>Ezra,</hi> and <hi>Nehemiah.</hi>
+            </p>
+            <p>If a man pu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſue us in one City wee may fly to another: if in one Countrey we may flye to another: if in one King<g ref="char:EOLhyphen"/>dome wee may flye to another and bee ſafe, as Gods people have often done. But if God purſue us, there is no hiding place nor eſcaping, where God will not finde us out, <hi>Ieremiah</hi> 11.11. <hi>Behold I will bring evill upon them, which they ſhall not be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ble to eſcape: and thou they ſhould cry unto mee, yet I will not hearken unto them.</hi> And <hi>Am<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> the ninth Chapter, and foure firſt Verſes: <hi>Hee that flyes of them, ſhall not flye away, and hee that eſcapeth of them, ſhall not be delivered: though they digge in<g ref="char:EOLhyphen"/>to hell, thence ſhall my hand fetch them: though they climbe up into Heaven, thence will I bring them downe, and though they hide themſelves in the top of Carmel, I wil ſearch and take them out thence; and though they be bid from my ſight in the bottome of the ſea, thence will I command the Serpent, and he ſhall bite them: and though they goe into Captivity the ſword ſhall ſlay them, and I will ſet mine eyes upon them for evill, and not for good.</hi> Thus when God is an<g ref="char:EOLhyphen"/>gry, and determines to make an end, there is no remnant, nor eſcaping: <hi>ſo that there be no remnant, nor eſcaping.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <pb facs="tcp:126089:20"/>
+            <p>Imprimatur</p>
+            <closer>
+               <signed>CHARLES HERLE.</signed>
+            </closer>
+            <pb facs="tcp:126089:20"/>
+         </div>
+      </back>
+   </text>
+</TEI>
